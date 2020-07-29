@@ -2,7 +2,7 @@
 Mavenized version of Amazon MWS Recommendations API
 
 [![Hits-of-Code](https://hitsofcode.com/github/chameleontartu/amazon-mws-recommendations-maven)](https://hitsofcode.com/view/github/chameleontartu/amazon-mws-recommendations-maven)
-[![Travis CI](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
+[![Travis CI](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-recommendations-maven)
 ![Maven Central](https://img.shields.io/maven-central/v/com.github.chameleontartu/amazon-mws-recommendations-maven)
 [![](https://jitpack.io/v/ChameleonTartu/amazon-mws-recommendations-maven.svg)](https://jitpack.io/#ChameleonTartu/amazon-mws-recommendations-maven)
 
