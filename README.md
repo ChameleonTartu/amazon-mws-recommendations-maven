@@ -60,6 +60,12 @@ To contribute to this project feel free to submit issues and PRs. This section i
 
 The other MWS projects that ported from Ant to Maven. See [docs](https://github.com/ChameleonTartu/amazon-mws-docs).
 
+# Java library version
+
+| Lib version  |
+|--------------|
+| 2014-10-01   |
+
 # TODO
 
 This repo is one of the series of MWS API SDKs which I am planning to put under the same umbrella and keep them up-to-date.
